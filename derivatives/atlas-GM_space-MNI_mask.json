@@ -1,0 +1,6 @@
+{
+	"Name": "Grey matter mask",
+	"Description": "Voxel with higher probability, on average over the subjects in the study, to be grey matter than white matter or CSF and with a priori probability higher than .2 to be GM.",
+	"DerivedFrom": "Segmented GM, WM and CSF maps from all subjects",
+	"ReferencesAndLinks": "https://doi.org/10.1016%2Fj.neurobiolaging.2014.02.008"
+}
