@@ -1,7 +1,0 @@
-{
-	"Name": "mean MTsat map skull masked",
-	"Description": "Mean image, over all the subjects, of the warped MTsat masked, including bits of the skull.",
-	"DerivedFrom": "MTsat images from all subjects",
-	"Resolution": "Matching the resulting image: [1 1 1] mm^3",
-	"ReferencesAndLinks": "https://doi.org/10.1016%2Fj.neurobiolaging.2014.02.008"
-}

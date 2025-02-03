@@ -1,7 +1,0 @@
-{
-	"Name": "mean MTsat map",
-	"Description": "Mean image, over all the subjects, of the warped MTsat maps obtained directly from DARTEL without any masking.",
-	"DerivedFrom": "MTsat images from all subjects",
-	"Resolution": "Matching the Dartel template: [1.5 1.5 1.5] mm^3",
-	"ReferencesAndLinks": "https://doi.org/10.1016%2Fj.neurobiolaging.2014.02.008"
-}
