@@ -1,7 +1,0 @@
-{
-	"Name": "Whole brain population mask",
-	"Description": "Whole brain population mask in MNI space, to brain extract the quantitative maps.",
-	"DerivedFrom": "atlas-MTsat_space-MNI_res-high_desc-mean.nii",
-	"Resolution": "Matching the resulting image: [1 1 1] mm^3",
-	"ReferencesAndLinks": "https://doi.org/10.1016%2Fj.neurobiolaging.2014.02.008"
-}
